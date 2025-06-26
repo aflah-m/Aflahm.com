@@ -263,6 +263,9 @@ footer {
     .nav-links{
         display: none;
     }
+    .navbar{
+        width: 50%;
+    }
 }
 
 
